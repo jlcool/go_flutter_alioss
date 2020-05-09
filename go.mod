@@ -1,4 +1,4 @@
-module github.com/davidmartos96/go-flutter-plugin-sqlcipher
+module github.com/jlcool/go_flutter_alioss
 
 go 1.12
 
